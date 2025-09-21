@@ -85,7 +85,7 @@ Ready to get started? 🏁 Follow these simple steps to install and run the proj
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Jkanishkha0305/Price-Comparison-Agent.git
+   git clone https://github.com/23csrohit/Price-Comparison-Agent.git
    cd Price-Comparison-Agent 
    ```
 
