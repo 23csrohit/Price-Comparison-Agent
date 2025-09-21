@@ -1,0 +1,6 @@
+crewai 
+streamlit
+langchain-core
+langchain
+langchain-cerebras
+
